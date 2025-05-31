@@ -1,7 +1,7 @@
 ### **CH01 2025 Data Science, Analytics, and Data Engineering Internship Guide**
 
 ---
-### **📅 Week 1: Version Control & Open Source Contribution**
+### **Week 1: Version Control & Open Source Contribution**
 
 **Objectives:**
 - Settle into the work environment.
@@ -15,10 +15,10 @@
 - Write clear commit messages and use issues/discussions effectively.
 
 **Important Date:**
-📌 **Stand-Up Meeting**  
+**Weekly Stand-Up Meeting**  
 🗓️ **Thursday, 5th June 2025**  
-🕗 **8:00 PM EAT**  
-🗣️ During this meeting, everyone will **update the team on at least one open-source contribution** they have made.
+🕗 **8:00 PM EAT** 
+*During this meeting, everyone will **update the team on at least one open-source contribution** they have made.*
 
 ---
 
