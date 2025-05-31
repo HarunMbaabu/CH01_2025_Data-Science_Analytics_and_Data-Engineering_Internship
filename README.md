@@ -1,4 +1,4 @@
-### **CH01 2025 Data Science, Analytics, and Data Engineering Internship Guide**
+### **CH012025 Data Science, Analytics, and Data Engineering Internship Guide**
 
 ---
 ### **Week 1: Version Control & Open Source Contribution**
