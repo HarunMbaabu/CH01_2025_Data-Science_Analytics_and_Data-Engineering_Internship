@@ -14,15 +14,13 @@
 - Understand how to fork, clone, and contribute to public repositories.
 - Write clear commit messages and use issues/discussions effectively.
 
-**Important Date:**
-**Weekly Stand-Up Meeting**  
-🗓️ **Thursday, 5th June 2025**  
-🕗 **8:00 PM EAT** 
+**Important Date: Weekly Stand-Up Meeting**
+🗓️ **Thursday, 5th June 2025, 8:00 PM 9:00 PM EAT (Once per week)** 
 *During this meeting, everyone will **update the team on at least one open-source contribution** they have made.*
 
 ---
 
-### **📅 Week 2: Team Collaboration & Python Packaging**
+### **Week 2: Team Collaboration & Python Packaging**
 
 **Objectives:**
 - Deepen your understanding of Git and GitHub through collaborative work.
@@ -37,6 +35,6 @@
 
 ---
 
-### **📅 Week 3 – Week 8: _[To be documented]_**
+### **Week 3 – Week 8: _[To be documented]_**
 
 _(Weeks 3–8 activities will be outlined and updated here as the internship progresses.)_
