@@ -14,8 +14,10 @@
 - Understand how to fork, clone, and contribute to public repositories.
 - Write clear commit messages and use issues/discussions effectively.
 
-**Important Date: Weekly Stand-Up Meeting**
+**Important Date: Weekly Stand-Up Meeting.**
+
 🗓️ **Thursday, 5th June 2025, 8:00 PM 9:00 PM EAT (Once per week)** 
+
 *During this meeting, everyone will **update the team on at least one open-source contribution** they have made.*
 
 ---
