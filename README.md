@@ -35,6 +35,12 @@
 - Write clean, modular code with meaningful documentation.
 - Successfully **publish your package to [PyPI.org](https://pypi.org)**.
 
+**Important Date: Weekly Stand-Up Meeting.**
+
+🗓️ **Thursday, 12th June 2025, 8:00 PM 9:00 PM EAT (Once per week)** 
+
+*During this meeting, everyone will **update the team on at least one open-source contribution** they have made.*
+
 ---
 
 ### **Week 3 – Week 8: _[To be documented]_**
